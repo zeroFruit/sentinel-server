@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "csv-parse": "^4.10.1",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "extract-zip": "^2.0.0",
     "find": "^0.3.0",
     "moment": "^2.26.0",
